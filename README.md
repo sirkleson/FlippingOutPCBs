@@ -17,3 +17,4 @@ Flip Split Proto
 
 Lets you either keep it together or break it parts for easy small sensors or communication projects
 
+[OSHW] US000123 | Certified open source hardware | oshwa.org/cert
